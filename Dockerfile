@@ -1,4 +1,4 @@
-FROM requarks/wiki:2
+FROM ccr.ccs.tencentyun.com/tcb_public/requarks_wiki:2
 
 USER root
 
